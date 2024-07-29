@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @AvulamandaSuseela
+- 
 👨‍💻 Software Developer | Welcome to My Profile! Hello! I'm Avulamanda Suseela, 👋
 
-🧠Avulamanda suseela
+🧠 About Me
+
+Avulamanda suseela
 
 As a passionate B.Tech graduate in Computer Science Engineering, I am enthusiastic about securing a challenging role in the IT and software industry. My aim is to enhance my practical skills and utilize my strong analytical and technical abilities to drive innovation and contribute significantly to organizational success.
 
