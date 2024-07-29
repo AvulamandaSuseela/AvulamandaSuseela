@@ -7,13 +7,12 @@ As a passionate B.Tech graduate in Computer Science Engineering, I am enthusiast
 
 🎓 Education
 
-Degree : Bachelor of Technology in Computer Science And Engineering, Jawaharlal Nehru Technological University, Hyderabad, 2023.
+Degree : Bachelor of Technology in Computer Science And Engineering, Acharya Nagarjuna University, Guntur, 2022.
 
 🌟 Skills and Expertise Software Development
 
 Languages :
-
-C , PYTHON ( Django, HTML, CSS, SQL )
+Java, HTML, CSS, SQL 
 
 🚀 Projects and Accomplishments
 
